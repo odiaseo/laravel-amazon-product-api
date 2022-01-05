@@ -26,12 +26,6 @@
       "Revolution\\Amazon\\ProductAdvertising\\Tests\\": "tests/"
     }
   },
-  "authors": [
-    {
-      "name": "kawax",
-      "email": "kawaxbiz@gmail.com"
-    }
-  ],
   "extra": {
     "laravel": {
       "providers": [
